@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>器メータ - プライバシーポリシー</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8fafc;
+            color: #374151;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #4f46e5;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        h2 {
+            color: #1f2937;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #374151;
+            margin-top: 25px;
+        }
+        .highlight {
+            background-color: #ecfdf5;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            border-left: 4px solid #10b981;
+        }
+        .important {
+            background-color: #fef3c7;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            border-left: 4px solid #f59e0b;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e5e7eb;
+            color: #6b7280;
+            font-size: 14px;
+        }
+        .contact-info {
+            background-color: #dbeafe;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            border-left: 4px solid #3b82f6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>器メータ - プライバシーポリシー</h1>
+        
+        <div class="highlight">
+            <p><strong>器メータ</strong>（以下「本アプリ」）は、ユーザーのプライバシーを最重要視しています。本プライバシーポリシーでは、本アプリがどのような情報を取り扱うかについて説明します。</p>
+        </div>
+
+        <div class="important">
+            <h2>🔒 重要なお約束</h2>
+            <p><strong>本アプリは一切の個人情報を収集しません。</strong></p>
+            <p>すべてのデータはお客様のデバイス内にのみ保存され、外部に送信されることはありません。</p>
+        </div>
+
+        <h2>📱 収集する情報</h2>
+        <h3>収集しない情報</h3>
+        <ul>
+            <li>個人を特定する情報（氏名、住所、電話番号、メールアドレスなど）</li>
+            <li>デバイス情報（UDID、広告ID、IPアドレスなど）</li>
+            <li>位置情報</li>
+            <li>連絡先情報</li>
+            <li>写真・カメラへのアクセス</li>
+            <li>その他の個人情報</li>
+        </ul>
+
+        <h3>アプリ内で記録される情報</h3>
+        <p>以下の情報はお客様のデバイス内にのみ保存されます：</p>
+        <ul>
+            <li>日々の行動記録（お客様が入力したテキスト）</li>
+            <li>獲得ポイント</li>
+            <li>解放された偉人の情報</li>
+            <li>アプリの設定情報</li>
+        </ul>
+
+        <h2>🛡️ データの保存と保護</h2>
+        <h3>ローカルストレージ</h3>
+        <ul>
+            <li>すべてのデータはお客様のデバイス内にのみ保存されます</li>
+            <li>iOS の AsyncStorage を使用してデータを暗号化保存</li>
+            <li>他のアプリからアクセスできない専用領域に保存</li>
+        </ul>
+
+        <h3>データの送信</h3>
+        <ul>
+            <li>本アプリは外部サーバーとの通信を行いません</li>
+            <li>インターネット接続がなくても完全に動作します</li>
+            <li>お客様のデータが外部に送信されることは一切ありません</li>
+        </ul>
+
+        <h2>🔄 データの削除</h2>
+        <p>以下の場合、保存されたデータが削除されます：</p>
+        <ul>
+            <li>アプリをアンインストールした場合</li>
+            <li>デバイスを初期化した場合</li>
+            <li>iOSのシステム要件によりデータが削除された場合</li>
+        </ul>
+
+        <h2>📊 分析・広告について</h2>
+        <div class="highlight">
+            <h3>分析ツール</h3>
+            <p><strong>使用していません</strong> - Google Analytics、Firebase Analytics等の分析ツールは一切使用していません。</p>
+            
+            <h3>広告</h3>
+            <p><strong>表示していません</strong> - 広告の表示やトラッキングは一切行いません。</p>
+            
+            <h3>クラッシュレポート</h3>
+            <p><strong>収集していません</strong> - アプリのクラッシュ情報やエラーログの収集は行いません。</p>
+        </div>
+
+        <h2>👨‍👩‍👧‍👦 児童のプライバシー</h2>
+        <p>本アプリは13歳未満の児童から個人情報を意図的に収集することはありません。実際のところ、本アプリはいかなる年齢の方からも個人情報を収集しません。</p>
+
+        <h2>🔄 プライバシーポリシーの変更</h2>
+        <p>本プライバシーポリシーを変更する場合は、本ページに掲載します。重要な変更がある場合は、アプリのアップデートを通じてお知らせします。</p>
+
+        <h2>🤝 第三者サービス</h2>
+        <p>本アプリは第三者のサービスやライブラリを使用していません。完全に独立したアプリケーションです。</p>
+
+        <h2>🌍 国際的な取り扱い</h2>
+        <p>本アプリはお客様のデバイス内でのみ動作するため、データの国際移転は発生しません。</p>
+
+        <div class="contact-info">
+            <h2>📞 お問い合わせ</h2>
+            <p>プライバシーポリシーに関するご質問がございましたら、App Storeのレビュー欄にコメントをお書きください。</p>
+            <p>できる限り迅速に対応いたします。</p>
+        </div>
+
+        <h2>💡 アプリの理念</h2>
+        <p>器メータは「数字より大切なのは、今のあなたの存在そのもの」という理念のもと開発されました。お客様のプライバシーを完全に保護しながら、安心して自分自身と向き合える環境を提供することを最優先にしています。</p>
+
+        <div class="footer">
+            <p><strong>器メータ - 人生はゲーム！楽しく器を育てよう</strong></p>
+            <p>施行日: 2025年1月19日</p>
+            <p>最終更新日: 2025年1月19日</p>
+        </div>
+    </div>
+</body>
+</html>
